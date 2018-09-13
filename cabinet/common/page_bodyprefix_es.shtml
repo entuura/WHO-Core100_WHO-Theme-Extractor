@@ -1,0 +1,679 @@
+<body class="sf-body "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div class="sf-main-site main-site main"> <!-- header:on --> 
+<header> <div id="sf-top-header" class="top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-lg-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+ </div> <div class="sf_colsIn col-lg-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <div class="navigation-search"> <span> <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i> </span> </div> <!--Navigation search:off--> 
+
+
+<div class="language-selector language-selector-header">
+    <ul class="sf-lang-selector list-inline">
+            <li>
+                    <a data-available-culture="ar" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('ar'); return false;" class=" header" style="display:none">العربية</a>
+            </li>
+            <li>
+                    <a data-available-culture="zh" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('zh'); return false;" class=" header" style="display:none">中文</a>
+            </li>
+            <li>
+                    <a data-available-culture="en" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('en'); return false;" class=" header" style="display:none">English</a>
+            </li>
+            <li>
+                    <a data-available-culture="fr" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('fr'); return false;" class=" header" style="display:none">fran&#231;ais</a>
+            </li>
+            <li>
+                    <a data-available-culture="ru" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('ru'); return false;" class=" header" style="display:none">русский</a>
+            </li>
+            <li>
+                    <a data-available-culture="es" href="http://www.who.int/" onclick="imrOpenLinkWithTranslation('es'); return false;" class="selected header" style="display:none">espa&#241;ol</a>
+            </li>
+    </ul>
+</div>
+
+
+
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="header-logo"> <a href="http://www.who.int//es" title="Acceso"> <img src="http://www.who.int//ResourcePackages/WHO/assets/dist/images/logos/es/h-logo-blue.svg" alt="Acceso" class="logo svg" /> </a> </div> </div> 
+
+ <div id="search2">
+        <form action="http://search.who.int/search" target="_self" id="search-form">
+            <label for="search_who">
+            	<input name="q" id="q" class="searchInput" title="Buscar en WHO.int" type="text" placeholder="Buscar en WHO.int" value="" autocomplete="off">
+  				<div id="clear-search" class="search-clear"><i class="fa fa-times-circle fa-loaded fa-2x"></i></div>
+			</label>
+            <input type="hidden" name="ie" value="utf8"> <input type="hidden" name="site" value="who">
+            <input type="hidden" name="client" value="_es_r"> <input type="hidden" name="proxystylesheet" value="_es_r">
+            <input type="hidden" name="output" value="xml_no_dtd">
+            <input type="hidden" name="oe" value="utf8">
+            <input type="hidden" name="getfields" value="doctype">
+            <button id="searchSubmit " class="search-button" title="Buscar" data-reactid="8 ">	<i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i></button>
+        </form>
+    </div>
+
+ </div> <!-- logo:off --> <div id="navigationToScrape" class="navigation"> 
+<div class="row navWrapper" data-sf-element="Row">
+    <div class="nav-container">
+        <!--Main desktop navigation:on-->
+        <ul class="nav"></ul>
+        <!--Main desktop navigation:off-->
+    </div>
+
+    <ul class="nav-mobile"></ul>
+
+    <div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+    <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es" target="_self">Acceso</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics" target="_self">Temas de salud</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T75121FDA161_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/topics/es/">Temas de salud &raquo;</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#A">A</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#B">B</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#C">C</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#D">D</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#E">E</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#F">F</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#G">G</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#H">H</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#I">I</a></li><li><a href="http://www.who.int/topics/en/#J">J</a></li><li><a href="http://www.who.int/topics/en/#K">K</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#L">L</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#M">M</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#N">N</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#O">O</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#P">P</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#Q">Q</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#R">R</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#S">S</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#T">T</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#U">U</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#V">V</a></li><li><a href="http://www.who.int/topics/en/#W">W</a></li><li><a href="http://www.who.int/topics/en/#X">X</a></li><li><a href="http://www.who.int/topics/en/#Y">Y</a></li><li><a href="http://www.who.int/mediacentre/factsheets/es/#Z">Z</a></li></ul></div>    
+
+</div>
+</div>
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics" target="_self">Temas populares &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/virus-nipah" target="_self">Virus Nipah </a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/seguridad-de-los-veh&#237;culos-de-motor-de-dos-y-tres-ruedas" target="_self"> Seguridad de los veh&#237;culos de motor de dos y tres ruedas</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/hepatitis" target="_self">Hepatitis</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/top-10-causes-of-death" target="_self">Las 10 principales causas de defunci&#243;n</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/salud-materna" target="_self">Salud materna</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/salud-de-los-adolescentes" target="_self">Salud de los adolescentes</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/salud-del-ni&#241;o" target="_self">Salud del ni&#241;o</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/salud-ambiental" target="_self">Salud ambiental</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/health-topics/popular-topics/yellow-fever" target="_self">Fiebre amarilla </a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://apps.who.int/iris/bitstream/handle/10665/272833/WHO-NMH-PND-18.4-spa.pdf">Tabaco y enfermedades cardiovasculares &raquo;</a></div></div>    
+
+</div>
+        <img class="lazy"
+             data-src="http://www.who.int//images/default-source/campaigns/world-no-tobacco-day-2018/wntd-2018-heart.png?sfvrsn=b004d671_0"
+             title="WMR-2017-cover_180px"
+             alt="Cover of the 2018 World Malaria Report"
+             
+              />
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/redirect-pages/mega-menu/countries" target="_self">Pa&#237;ses</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204039_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204043_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/countries/en/">Buscar un pa&iacute;s &raquo;</a></li><li><a href="http://www.who.int/countries/es/#A">A</a></li><li><a href="http://www.who.int/countries/es/#B">B</a></li><li><a href="http://www.who.int/countries/es/#C">C</a></li><li><a href="http://www.who.int/countries/es/#D">D</a></li><li><a href="http://www.who.int/countries/es/#E">E</a></li><li><a href="http://www.who.int/countries/es/#F">F</a></li><li><a href="http://www.who.int/countries/es/#H">H</a></li><li><a href="http://www.who.int/countries/es/#I">I</a></li><li><a href="http://www.who.int/countries/es/#J">J</a></li><li><a href="http://www.who.int/countries/es/#K">K</a></li><li><a href="http://www.who.int/countries/es/#L">L</a></li><li><a href="http://www.who.int/countries/es/#M">M</a></li><li><a href="http://www.who.int/countries/es/#N">N</a></li><li><a href="http://www.who.int/countries/es/#O">O</a></li><li><a href="http://www.who.int/countries/es/#P">P</a></li><li><a href="http://www.who.int/countries/es/#R">R</a>
+ </li><li><a href="http://www.who.int/countries/es/#S">S</a></li><li><a href="http://www.who.int/countries/es/#T">T</a></li><li><a href="http://www.who.int/countries/es/#U">U</a></li><li><a href="http://www.who.int/countries/es/#V">V</a></li><li><a href="http://www.who.int/countries/es/#W">W</a></li><li><a href="http://www.who.int/countries/es/#X">X</a></li><li><a href="http://www.who.int/countries/es/#Y">Y</a></li><li><a href="http://www.who.int/countries/es/#Z">Z</a></li></ul></div>    
+
+</div>
+</div>
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/who-in-countries" target="_self">Presencia de la OMS en los pa&#237;ses &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/who-in-countries/overview" target="_self">Resumen</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/who-in-countries/actividades-de-la-oms-en-los-pa&#237;ses" target="_self">Actividades </a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/who-in-countries/estrategias-y-redes-de-apoyo" target="_self">Estrategias y redes de apoyo</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions" target="_self">Regiones &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/africa" target="_self">Regi&#243;n de &#193;frica</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/americas" target="_self">Regi&#243;n de las Am&#233;ricas</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/south-east-asia" target="_self">Regi&#243;n de Asia Sudoriental</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/europe" target="_self">Regi&#243;n de Europa</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/eastern-mediterranean" target="_self">Regi&#243;n del Mediterr&#225;neo oriental</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/countries/regions/western-pacific" target="_self">Regi&#243;n del Pac&#237;fico occidental</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://www.who.int/emergencies/crises/syr/syria-who-annualreport2017.pdf?ua=1">Informe anual: Crisis Siria</a></div></div>    
+
+</div>
+        <img class="lazy"
+             data-src="http://www.who.int//images/default-source/imported/mental-health-emergencies-syria.tmb-340v.jpg?sfvrsn=c5f68861_12"
+             title="chronic-disease-tanzania"
+             alt="An old man in Tanzania, having his blood pressure checked"
+             
+              />
+
+<div class="content-block" >
+    <div ><div class="navigation-title">&nbsp;</div></div>    
+
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/news-room" target="_self">Centro de prensa</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/news-room" target="_self">Centro de prensa</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/news-room/releases" target="_self">Comunicados de prensa</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/statements" target="_self">Declaraciones</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/notes" target="_self">Notas para los medios informativos</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/commentaries" target="_self">Comentarios</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/feature-stories" target="_self">Reportajes</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/questions-answers" target="_self">Preguntas y respuestas</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/news-room/events" target="_self">Eventos</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int//es/news-room/releases">Titulares</a></li></ul></div>    
+
+</div>
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="http://www.who.int/es/news-room/detail#:ItemDefaultUrl #" aria-label="#: Title #" role="link">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    function loadScript(url, callback) {
+        var script = document.createElement("script")
+        script.type = "text/javascript";
+        if (script.readyState) {  //IE
+            script.onreadystatechange = function () {
+                if (script.readyState === "loaded" || script.readyState === "complete") {
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {  //Others
+            script.onload = function () {
+                callback();
+            };
+        }
+
+        script.src = url;
+        document.body.appendChild(script);
+    }
+    window.onload = function () {
+        loadScript("//kendo.cdn.telerik.com/2018.1.221/js/kendo.ui.core.min.js", function () {
+            var remoteDataSource = new kendo.data.DataSource({
+                type: "odata-v4",
+                transport: {
+                    read: "http://www.who.int/api/news/newsitems?sf_culture=es&$top=4&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType"
+                }
+            });
+            $("#listView").kendoListView({
+                dataSource: remoteDataSource,
+                pageable: true,
+                template: kendo.template($("#template").html()),
+                dataBound: function () {
+                    this.wrapper.removeClass("k-widget");
+                    this.wrapper.removeClass("k-listview");
+                }
+            });
+        });
+    };
+</script>
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="content-block" >
+    <div ></div>    
+
+</div>
+        <img class="lazy"
+             data-src="http://www.who.int//images/default-source/imported/girl-belize.jpg?sfvrsn=5b7822b0_0"
+             title="monitoring-health-300"
+             alt="Monitoring health for the sustainable development goals"
+             
+              />
+
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://www.who.int/gho/es/">Datos y an&aacute;lisis para los ODS relativos a la salud</a></div></div>    
+
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies" target="_self">Emergencias</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204040_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/emergencies" target="_self">Emergencias &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/emergencies/nigeria" target="_self">Nigeria</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/emergencies/crisis-sanitaria-en-siria" target="_self">Crisis sanitaria en Siria</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/emergencies/yemen" target="_self">Yemen</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/noticias" target="_self">Noticias</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/noticias/crisis-y-situaciones-de-emergencia" target="_self">Crisis y situaciones de emergencia</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/emergencies/noticias/brotes-epid&#233;micos" target="_self">Brotes epid&#233;micos</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Navigation_TD9F2A204090_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://www.who.int/features/2018/10-threats-global-heath/es/">10 amenazas a la salud mundial</a></div></div>    
+
+</div>
+        <img class="lazy"
+             data-src="http://www.who.int//images/default-source/fact-in-pictures/malaria/students-nepal-masks-630.tmb-340v.png?sfvrsn=20b6c51d_1"
+             title="WHO_005546.orig"
+             alt="WHO_005546.orig"
+             
+              />
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/redirect-pages/mega-menu/about-us" target="_blank">Acerca de la OMS</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about" target="_self">Acerca de la OMS  &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about/who-we-are" target="_self">Qui&#233;nes somos</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about/what-we-do" target="_self">Nuestras actividades</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about/where-we-work" target="_self">D&#243;nde trabajamos</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about/who-we-work-with" target="_self">Asociaciones y colaboraciones</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/about/director-general" target="_self">Director General</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/contact-us" target="_self">Contacto &#187;</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/governance" target="_blank">Gobernanza &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/governance/world-health-assembly" target="_self">Asamblea Mundial de la Salud</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/governance/executive-board" target="_self">Consejo Ejecutivo</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/planning-accountability" target="_self">Planificaci&#243;n, finanzas y rendici&#243;n de cuentas &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/planning-accountability/budget" target="_blank">Presupuesto</a>
+
+    </li>
+    <li class="">
+        <a href="http://www.who.int//es/redirect-pages/mega-menu/about-us/planning-accountability/funding" target="_self">Financiaci&#243;n</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ></div>    
+
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+ </div>
+</div>
+ </div> </header> <!-- header:off --> 
+<section class="content">

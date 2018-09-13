@@ -1,0 +1,21 @@
+<!--#if expr="${QUERY_STRING} = /lang=([a-zA-Z0-9]+)/" -->
+  <!--#set var="lang" value="$1" -->
+<!--#else -->
+  <!--#set var="lang" value="en" -->
+<!--#endif -->
+
+
+<!--#include file="cabinet/common/page_prefix_${lang}.shtml" -->
+<!--#include file="cabinet/common/page_headprefix_${lang}.shtml" -->
+<!-- IMR Specific HEAD code -->
+<script type="text/javascript" src="js/imr-language-selector.js"></script>
+<!--#include file="cabinet/common/page_headpostfix_${lang}.shtml" -->
+<!--#include file="cabinet/common/page_bodyprefix_${lang}.shtml" -->
+<H1> IMR SPECIFIC CONTENT </H1>
+<H2> LANG <!--#echo var="lang" --> </H2>
+<pre><!--#printenv -->
+</pre>
+<!--#endif -->
+<!--#include file="cabinet/common/page_bodypostfix_${lang}.shtml" -->
+
+

@@ -1,0 +1,59 @@
+
+ <link rel="shortcut icon" href="http://www.who.int//favicon.ico"> <link href="http://use.fontawesome.com/releases/v5.0.10/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='http://www.who.int//ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=0911135756'> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QFSQRT');</script>
+<meta property="og:locale" content="ru_RU" /><meta name="Generator" content="Sitefinity 11.0.6723.0 PU" /><link rel="canonical" href="http://www.who.int/ru/emptynavandfooterpage" /><script type="text/javascript">
+	
+(function(){
+    var metadataStr = '{\"Id\":\"8e3b1cbe-72e5-4763-b1e1-21c978ab7e97\",\"ContentType\":\"Page\",\"Title\":\"WHO | Global Reference List of 100 Core Health Indicators (plus health-related SDGs), registry, 2018\",\"CanonicalTitle\":\"WHO | Global Reference List of 100 Core Health Indicators (plus health-related SDGs), registry, 2018\",\"CanonicalUrl\":\"http://www.who.int/ru/emptynavandfooterpage\",\"Language\":\"ru\",\"CreatedOn\":\"2018-06-02T02:53:23.983Z\",\"ModifiedOn\":\"2018-06-20T11:54:59.287Z\",\"SiteName\":\"World Health Organization\",\"PageId\":\"8e3b1cbe-72e5-4763-b1e1-21c978ab7e97\"}';
+    window.decMetadata = window.decMetadata || {};
+    window.decMetadata.contentMetadata = JSON.parse(metadataStr);
+})();
+</script><script type="text/javascript">
+	(function() {
+    var jqueryXhrModified = false;
+    var detectjs = false;
+    var executeDataIntelligenceScript = function() {
+        var source;
+        if (!window.JSON) {
+            source = 'http://www.who.int/WebResource.axd?d=tTNUeDtL8OsI39FmMLAdgNNCb0ZD5veX8tTsR4F8xDBpV2AZO57RvI_6Rh7WF9qKq_5YeqoRO4BHSHPv0stBgWxVpGSStCDRlKyKhe59orQY3NF5Vj-lDjxJqSuYyV-P8Px6F2xdHkBn1OoNi0iXuolh-aOCmi0gDnkrwjTCy1k1&t=636664070020000000';
+        } else if (!window.jQuery) {
+            source = 'http://www.who.int/WebResource.axd?d=s7-zxpMGrfzFqvNoaI5niOhHYRdpx4h8bKa4v4dMi0pZF20E7MvR8TXhYSjJgoFKDvwpjeYHpzDrTrPGYnBW4jwuwUx7Y5494UlwyE_QDopXTpiviKLMQyGBr-Dwa-HI8RTfniCqoRf6XMn0OndGy7RoAM3z7N1uBIaUn5Vd2mIrt77N-S2XE0v8uxLl_Pok0&t=636664070020000000';
+        } else if (!jqueryXhrModified) {
+            source = 'http://www.who.int/WebResource.axd?d=OtDu8JfVYXvNVzEo1LSFcDFMIUCK_kLKUD971_XkStWWV0OLH7E19FfzIeRXhlQ5l_TQ9Hi8XIS5nTm_G6Vjj-0xP4epSs0wLYstS4dEkNdkVYqwkjnCVLXH98W9ntAlloRMajrpMaod6XyR7qmzg7p787w8O8edDyR1S_u6sX7r5S5DlH06J0ykzMsJyOB9tEH2cZlwns4njySOTxLYrUFMk9RqA4axo4ND_JZbEIc3Uv_fs6_wtpQ9n6pEBsXj0&t=636664070520000000';
+            jqueryXhrModified = true;
+        } else if (!detectjs) {
+            source = 'http://www.who.int/WebResource.axd?d=6kZXgApsQ6ne3RX7gMeiNRn5rGhfA58P9StiLUZMYDXWheCeNI6hKB50NLt3BVLGARKgmZrwZ-iVI-csUuadHTgovqn0j9OJmsg3Izcs0ouWNP865ZPoP4_EnOLDMbztXRMbkqyHRRpmEMP98VziK_7ZYp3EP1ePlvSder9qiPhrG5Rz9Xx5D6tY3aAvQwpUWA5ARAMs5vmpjrSWJe34Mn8x1NcTu9RdV0HkviWwk8g1&t=636664070520000000';
+            detectjs = true;
+        } else if (!window.DataIntelligenceSubmitScript) {
+            source = 'http://www.who.int/WebResource.axd?d=svCNDiDihPX-0SS0GCW70A-DhDerTxtYzid9aTI-J9Kq9GzadAIksnXFp8kGnibpA2gpS2cei03C5hmxgmbIKsUTvqXRA1a3IIIGgcxkgObpaCty5bE-9DLmWgSNJsw8XgZNFTwhspIRrL2snNjwClBKjg8yqrsU9HYiHtUg9zpB8zMrORYMkVNPN8jG6Dsq3G6yqnBDZ4m_GdZ_dYI1lPvz1LMOPiBYSBsAnU2-TYX3sgSVVX5Wv2FYHpf-_5uJ0&t=636664070520000000';
+        } else if (!window.sfDataIntell) {
+            source = 'https://dec.azureedge.net/sdk/telerik-dec-client.min.3.0.1.js';
+        } else {
+            return DataIntelligenceSubmitScript.load({"apiServerUrl":"https://api.dec.sitefinity.com","apiKey":"60b129ff-f08e-60f2-b71f-86a187742c5e","applicationName":"Sitefinity","trackingCookieDomain":"","keepDecTrackingCookieOnTrackingConsentRejection":false});
+        }
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        var callback = function() {
+            if (!this.readyState || this.readyState === 'complete' || this.readyState === 'loaded') {
+                executeDataIntelligenceScript();
+            }
+        };
+        if(script.addEventListener) {
+            script.addEventListener('load', callback, false);
+        } else if(script.readyState) {
+            script.onreadystatechange = callback;
+        }
+        script.src = source;
+        return document.body.appendChild(script);
+    };
+    if (window.addEventListener) {
+        window.addEventListener('load', executeDataIntelligenceScript, false);
+    } else if (window.attachEvent) {
+        window.attachEvent('onload', executeDataIntelligenceScript);
+    }
+})();
+</script></head> 
